@@ -8,6 +8,8 @@ public class KadaiFirstSpringBootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(KadaiFirstSpringBootApplication.class, args);
+	
+	
 	}
 
 }
