@@ -31,7 +31,7 @@ public class KadaiFirstController {
         Calendar cal = Calendar.getInstance();
         {
 
-            cal.set(num, num2, num3);
+            cal.set(num, (num2)-1, num3);
         }
 
         String out;
